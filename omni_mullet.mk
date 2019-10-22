@@ -16,5 +16,5 @@ $(call inherit-product, device/misfit/mullet/device.mk)
 PRODUCT_DEVICE := mullet
 PRODUCT_NAME := omni_mullet
 PRODUCT_BRAND := Misfit
-PRODUCT_MODEL := LEO-DLXX
+PRODUCT_MODEL := Vapor
 PRODUCT_MANUFACTURER := Misfit
