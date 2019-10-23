@@ -7,6 +7,7 @@ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.
 repo sync
 
 export ALLOW_MISSING_DEPENDENCIES=true
+LC_ALL=C
 . build/envsetup.sh
 lunch omni_mullet-eng
 mka recoveryimage
