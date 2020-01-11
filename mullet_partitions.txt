@@ -46,3 +46,14 @@ tmpfs                    220720      0    220720   0% /mnt
 /dev/block/mmcblk0p22     16048    220     15420   2% /persist
 /dev/block/mmcblk0p1      65488  22128     43360  34% /firmware
 /data/media             1966912 538732   1411796  28% /storage/emulated
+
+(bootloader) version-bootloader : MULLET_032
+(bootloader) display-panel : boe6d00_454p_cmd
+(bootloader) charger-screen-enabled : 1
+(bootloader) max-download-size :        0xfa00000
+(bootloader) partition-type:cache : ext4
+(bootloader) partition-size:cache :      0x4000000
+(bootloader) partition-type:userdata : ext4
+(bootloader) partition-size:userdata :   0x7befbe00
+(bootloader) partition-type:system : ext4
+(bootloader) partition-size:system :     0x4cccd000
